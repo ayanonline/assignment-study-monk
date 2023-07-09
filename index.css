@@ -61,7 +61,7 @@ a {
 .banner-image {
   height: 30rem;
   width: 40rem;
-  background-image: url("../images/banner.jpg");
+  background-image: url("./images/banner.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -88,7 +88,7 @@ a {
 .quote-image {
   height: 10rem;
   width: 25rem;
-  background-image: url("../images/frustate_women.png");
+  background-image: url("./images/frustate_women.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -130,7 +130,7 @@ a {
 .revolution-image {
   height: 20rem;
   width: 30rem;
-  background-image: url("../images/9175118_6461.jpg");
+  background-image: url("./images/9175118_6461.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;

@@ -65,7 +65,7 @@ form > button:hover {
 .image-container {
   height: 30rem;
   width: 40rem;
-  background-image: url("../images/banner.jpg");
+  background-image: url("./images/banner.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
